@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-08-gallery-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stadvar/goit-js-hw-08-gallery-bundler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stadvar/goit-js-hw-08-gallery-bundler/issues"
+  },
+  "homepage": "https://github.com/stadvar/goit-js-hw-08-gallery-bundler#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
